@@ -7,6 +7,6 @@ Welcome to my continuous learning repository! Here I keep track of the certifica
 ## 🛠️ Technologies & Skills
 * **Languages:** C, C++
 * **Version Control:** Git, Visual Studio Code
-* **Management & Collaboration:** Jira, Confluence
+* **Management & Collaboration:** Jira, Confluence, Project Management
 * **Other Areas:** Artificial Intelligence Fundamentals
 
